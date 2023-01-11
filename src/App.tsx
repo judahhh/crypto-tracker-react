@@ -60,7 +60,8 @@ body{
   box-sizing:border-box
 }
 a{
-  text-decoration:none
+  text-decoration:none;
+  color:inherit
 }
 `;
 //위는 스타일의 기본값을 제거함
